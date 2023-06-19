@@ -1,6 +1,7 @@
   body {
       background-color: #0000FF;
       font-family: Terminal, monospace;
+      color:#FFFFFF;
       display: flex;
       align-items: center;
       justify-content: center;
