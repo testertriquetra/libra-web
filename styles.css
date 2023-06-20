@@ -30,23 +30,6 @@
   z-index: -1;
 }
 
-.content {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 1;
-  text-align: center;
-  color: #FFFFFF;
-  font-family: Terminal, monospace;
-  text-shadow: 0 0 3px rgba(255, 255, 255, 0.8);
-}
-
-.tearing-text {
-  position: relative;
-  animation: tearing 2s infinite linear;
-}
-
 @keyframes tearing {
   0% {
     transform: translateY(0);
