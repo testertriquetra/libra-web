@@ -36,7 +36,7 @@ body {
 }
 
 .glitch span {
-  position: center;
+  position: absolute;
   top: 0;
   left: 0;
 }
